@@ -2548,7 +2548,7 @@ Contact
 .sec-contact h3::before {
     position: absolute;
     content: '';
-    border-bottom: dotted;
+/*    border-bottom: dotted;*/
     width: 32px;
     top: 26px;
     border-width: 2px;
