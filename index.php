@@ -62,7 +62,7 @@ if (isset($_GET['accept-cookies'])) {
         ?>
         <div class="cookie-banner">
             <div class="cookie-container">
-                <p>We use cookies on this website. By using this website, we'll assume you consent to <a href="">the cookies we set</a></p>
+                <p>I use cookies on this website. By using this website, I'll assume you consent to <a href="">the cookies I set</a></p>
                 <a href="?accept-cookies" class="cookie-button">Ok, Continue</a>
             </div>
         </div>
@@ -153,8 +153,8 @@ if (isset($_GET['accept-cookies'])) {
             <div class="container">
                 <div class="row">
                     <div class="col-sm-7 col-header-txt lr-padding">
-                        <h1 class="animate display-none">WE OFFER A <span>REFRESHING</span> APPROACH TO BUSINESS ENERGY</h1>
-                        <p class="animate delay-a display-none">We believe business energy costs should be a reflection of business needs. Our first focus is to be fully transparent. </p>
+                        <h1 class="animate display-none">I OFFER A <span>REFRESHING</span> APPROACH TO BUSINESS ENERGY</h1>
+                        <p class="animate delay-a display-none">I believe business energy costs should be a reflection of business needs. My first focus is to be fully transparent. </p>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#overview">Discover more</a>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#contact">Contact Us</a>
                     </div>
@@ -169,7 +169,7 @@ if (isset($_GET['accept-cookies'])) {
         <!-- OVERVIEW -->
         <section id="overview" class="sec-overview bg-white">
             <h2 class="sec-title">Overview</h2>
-            <p class="subheader">We work with businesses on an array of energy issues. <br>Our services include disputing overpayments, billing issues and metering issues. We also procure energy contracts and look at ways of reducing consumption through technology, behavioural changes and auditing. <br>We pride ourselves on having a transparent and ethical approach when working with our clients building trusted relationships.</p>
+            <p class="subheader">I work with businesses on an array of energy issues. <br>My services include disputing overpayments, billing issues and metering issues. I also procure energy contracts and look at ways of reducing consumption through technology, behavioural changes and auditing. <br>I pride myself on having a transparent and ethical approach when working with my clients building trusted relationships.</p>
             <div class="container">
                 <div class="row">
 
@@ -182,7 +182,7 @@ if (isset($_GET['accept-cookies'])) {
                             </div>
                             <hr>
                             <h5>Resolution Service</h5>
-                            <p>We work on businesses behalf to resolve energy related issues which have become time consuming, tedious and stressful.</p>
+                            <p>I work on businesses behalf to resolve energy related issues which have become time consuming, tedious and stressful.</p>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
@@ -194,7 +194,7 @@ if (isset($_GET['accept-cookies'])) {
                             </div>
                             <hr>
                             <h5>Contract Procurement</h5>
-                            <p>We believe business energy costs should be a reflection of the business needs. There is no one size fits all every business is different.</p>
+                            <p>I believe business energy costs should be a reflection of the business needs. There is no one size fits all every business is different.</p>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
@@ -249,7 +249,7 @@ if (isset($_GET['accept-cookies'])) {
                                     <span>02</span>
                                     <h4>Evaluation</h4>
                                     <hr>
-                                    <p>With a detailed understanding of the situation we will evaluate all possible solutions.</p>
+                                    <p>With a detailed understanding of the situation I will evaluate all possible solutions.</p>
                                 </div>
                             </div>
                             <div class="col-sm-4 step-3">
@@ -258,7 +258,7 @@ if (isset($_GET['accept-cookies'])) {
                                     <span>03</span>
                                     <h4>Resolution</h4>
                                     <hr>
-                                    <p>We will present our findings and offer a resolution that best fits your business needs.</p>
+                                    <p>I will present our findings and offer a resolution that best fits your business needs.</p>
 
                                 </div>
                             </div>
@@ -370,10 +370,10 @@ if (isset($_GET['accept-cookies'])) {
                     <div class="col-md-4 animate contact_map_pad">
                         <div class="contact">
                             <h3>Contact us</h3>
-                            <p>We can be found below and contact in any way you like. We look forward to hearing from you.</p>
+                            <p>I can be found below and contact in any way you like. We look forward to hearing from you.</p>
                             <div class="contact-info">
                                 <h5><i class="icon ion-ios-location"></i> Location</h5>
-                                <h6>East Durham Business Cnetre, Station Town, Wingate, TS28 5HD</h6>
+                                <h6>East Durham Business Centre, Station Town, Wingate, TS28 5HD</h6>
                             </div>
                             <div class="contact-info">
                                 <h5><i class="icon ion-ios-telephone"></i> Phone</h5>
