@@ -26,7 +26,7 @@ if (isset($_GET['accept-cookies'])) {
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta name="description" content="Utility Assure Ltd. We offer a refreshing approach to business energy. Our first focus is to be fully transparent. We believe business energy costs should be a reflection of business needs">
+        <meta name="description" content="Utility Assure Ltd. We offer a refreshing approach to business energy. We believe business energy costs should be a reflection of business needs. Our first focus is to be fully transparent.">
         <!-- SITE TITLE -->
         <title>Utility Assure ltd</title>
         <!-- STYLESHEETS -->
@@ -154,7 +154,7 @@ if (isset($_GET['accept-cookies'])) {
                 <div class="row">
                     <div class="col-sm-7 col-header-txt lr-padding">
                         <h1 class="animate display-none">WE OFFER A <span>REFRESHING</span> APPROACH TO BUSINESS ENERGY</h1>
-                        <p class="animate delay-a display-none">Our first focus is to be fully transparent. We believe business energy costs should be a reflection of business needs</p>
+                        <p class="animate delay-a display-none">We believe business energy costs should be a reflection of business needs. Our first focus is to be fully transparent. </p>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#overview">Discover more</a>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#contact">Contact Us</a>
                     </div>
