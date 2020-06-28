@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 454.61 432.71">
+    <defs>
+        <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#UTILITY_GRADIENT);}.cls-3{font-size:57.14px;font-family:Gotham-Bold, Gotham;font-weight:700;letter-spacing:-0.02em;}.cls-3,.cls-8{fill:#1d1d1b;}.cls-4{letter-spacing:-0.06em;}.cls-5,.cls-6,.cls-7,.cls-8{font-family:GothamHTF-Book, Gotham HTF;}.cls-5,.cls-6,.cls-7{font-weight:400;}.cls-5{letter-spacing:-0.03em;}.cls-6{letter-spacing:-0.03em;}.cls-7{letter-spacing:-0.02em;}.cls-8{font-size:31.58px;letter-spacing:-0.02em;}.cls-9{letter-spacing:-0.06em;}.cls-10{letter-spacing:-0.09em;}.cls-11{letter-spacing:-0.02em;}.cls-12{letter-spacing:-0.03em;}</style>
+        <linearGradient id="linear-gradient" x1="178.01" y1="100.94" x2="277.75" y2="100.94" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a5c731"/>
+            <stop offset="1" stop-color="#76b83e"/>
+        </linearGradient>
+        <linearGradient id="UTILITY_GRADIENT" x1="70.99" y1="171.77" x2="384.77" y2="171.77" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffef26"/>
+            <stop offset="0.16" stop-color="#fbd12a"/>
+            <stop offset="0.46" stop-color="#f18f34"/>
+            <stop offset="0.71" stop-color="#e95f32"/>
+            <stop offset="1" stop-color="#e3312d"/>
+        </linearGradient>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="ARTWORK">
+            <polygon class="cls-1" points="214.46 0 270.94 0 240.9 64.68 277.75 64.68 178.01 201.88 213.26 96.09 192.03 96.09 214.46 0"/>
+            <path class="cls-2" d="M197.67,16.33C125.56,30.45,71,94.13,71,170.31c0,86.51,70.38,156.89,156.89,156.89s156.89-70.38,156.89-156.89c0-70-46.07-129.43-109.48-149.57L266.9,38.87C323.55,55.72,365,108.27,365,170.31c0,67.79-49.47,124.21-114.19,135.14,3-4,9.19-11.51,16.1-15.35,8.48-4.71,19.71-9.1,26.57-13.76a98.35,98.35,0,0,0,28-30.18c8.51-14,17.56-30.46,22.78-43.63s5.48-14.54,4.66-17-6-5.48-9.05-2.19-10.7,18.38-18.66,30.18-15.36,22.15-23.32,28.91-12.35,11.65-25.24,10.85c0,0,3-9,7.41-12.33s8.23-4.39,12.62-7.4a51.56,51.56,0,0,0,11.25-10.15c2.46-3.3,3.8-5.45,3.29-7.69-.41-1.78-3.49-3.56-6.82-1.09s-12.11,8.23-26.65,14-24.2,10-31,18.93c-6.44,8.5-11.52,18.65-14.81,41.43-3.29-22.78-8.37-32.93-14.82-41.43-6.8-9-16.46-13.17-31-18.93s-23.32-11.53-26.65-14-6.41-.69-6.82,1.09c-.52,2.24.82,4.39,3.29,7.69a51.56,51.56,0,0,0,11.25,10.15c4.39,3,8.23,4.11,12.62,7.4s7.41,12.33,7.41,12.33c-12.9.8-17.29-4.1-25.24-10.85s-15.37-17.11-23.32-28.91S119,186.62,115.94,183.33s-8.23-.27-9,2.19-.55,3.85,4.66,17,14.27,29.63,22.77,43.63a98.49,98.49,0,0,0,28,30.18c6.86,4.66,18.09,9.05,26.57,13.76,6.91,3.84,13.14,11.39,16.1,15.35C140.25,294.52,90.79,238.1,90.79,170.31c0-63.38,43.23-116.86,101.76-132.48Z"/>
+            <text class="cls-3" transform="translate(0 389.39)">
+                UTILIT
+                <tspan class="cls-4" x="184.17" y="0">Y</tspan>
+                <tspan class="cls-5" x="221.59" y="0">A</tspan>
+                <tspan class="cls-6" x="264.79" y="0">S</tspan>
+                <tspan class="cls-7" x="299.65" y="0">SURE</tspan>
+            </text>
+            <text class="cls-8" transform="translate(0.93 427.53)">
+                PR
+                <tspan class="cls-9" x="42.66" y="0">O</tspan>
+                <tspan x="67.58" y="0">VIDING TRANS</tspan>
+                <tspan class="cls-10" x="299.33" y="0">P</tspan>
+                <tspan class="cls-11" x="317.58" y="0">AREN</tspan>
+                <tspan class="cls-12" x="408.93" y="0">C</tspan>
+                <tspan class="cls-11" x="431.29" y="0">Y</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

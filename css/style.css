@@ -4470,3 +4470,13 @@ Styles for smaller devices
     background-image: url(../img/steps/bgimg.jpg);
 }
 
+#myModal {
+   position: absolute;
+   top: 10%;
+   right: 50%;
+   bottom: 0;
+   left: 0;
+   z-index: 10040;
+   overflow: auto;
+   overflow-y: auto;
+}
