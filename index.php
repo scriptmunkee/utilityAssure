@@ -181,7 +181,7 @@ if (isset($_GET['accept-cookies'])) {
                                 <!-- <i class="overview-img fa fa-pencil" aria-hidden="true"></i> -->
                             </div>
                             <hr>
-                            <h5>Resolution Service</h5>
+                            <h5>Resolution<br />Service</h5>
                             <p>I work on businesses behalf to resolve energy related issues which have become time consuming, tedious and stressful.</p>
                         </div>
                     </div>
@@ -193,7 +193,7 @@ if (isset($_GET['accept-cookies'])) {
                                 <!-- <i class="overview-img fa fa-heart" aria-hidden="true"></i> -->
                             </div>
                             <hr>
-                            <h5>Contract Procurement</h5>
+                            <h5>Contract<br /> Procurement</h5>
                             <p>I believe business energy costs should be a reflection of the business needs. There is no one size fits all every business is different.</p>
                         </div>
                     </div>
