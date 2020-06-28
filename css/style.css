@@ -3369,7 +3369,7 @@ Styles for smaller devices
     }
 
     nav .navbar-collapse .navbar-right {
-        float: none !important;
+        float: right!important;
         margin-right: 0;
         display: inline-block;
     }
