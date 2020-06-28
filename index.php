@@ -205,7 +205,7 @@ if (isset($_GET['accept-cookies'])) {
                                 <!-- <i class="overview-img fa fa-cog" aria-hidden="true"></i> -->
                             </div>
                             <hr>
-                            <h5>Energy Services</h5>
+                            <h5>Energy<br />Services</h5>
                             <p>Energy auditing with honest recomendations.</p>
                         </div>
                     </div>
@@ -217,7 +217,7 @@ if (isset($_GET['accept-cookies'])) {
                                 <!-- <i class="overview-img fa fa-phone" aria-hidden="true"></i> -->
                             </div>
                             <hr>
-                            <h5>Fully supported</h5>
+                            <h5>Fully<br />Supported</h5>
                             <p>Complete ongoing relationship management accross all services.</p>
                         </div>
                     </div>
