@@ -206,7 +206,7 @@ if (isset($_GET['accept-cookies'])) {
                             </div>
                             <hr>
                             <h5>Energy<br />Services</h5>
-                            <p>Energy auditing with honest recomendations.</p>
+                            <p>I will complete a full energy audit and report back my findings with honest recommendations.</p>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
@@ -218,7 +218,7 @@ if (isset($_GET['accept-cookies'])) {
                             </div>
                             <hr>
                             <h5>Fully<br />Supported</h5>
-                            <p>Complete ongoing relationship management accross all services.</p>
+                            <p>Complete ongoing relationship management accross all services with a direct line to myself.</p>
                         </div>
                     </div>
                 </div>
