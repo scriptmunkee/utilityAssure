@@ -70,7 +70,7 @@ if (isset($_GET['accept-cookies'])) {
         }
         ?>
         <!-- End cookie banner-->
-        <!-- Modal -->
+        <!-- privacy Policy Modal -->
         <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -114,12 +114,11 @@ if (isset($_GET['accept-cookies'])) {
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- END Modal -->
+        <!-- END Privacy policy Modal -->
         <!-- MAIN NAV -->
         <nav class="navbar navbar-fixed-top">
             <div class="container">
@@ -441,11 +440,12 @@ I consent to having this website store my submitted information so they can resp
 </div>
 -->
                             <button type="submit" value="send">Send message <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
-                            <p id="fftext"></p>
+                            
                             <span id="ffsuccess"></span>
                             <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-                                Launch demo modal
+                                Privacy Policy
                             </button>
+                            <p id="fftext"></p>
                         </form>
                     </div>
                 </div>
