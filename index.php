@@ -152,13 +152,13 @@ if (isset($_GET['accept-cookies'])) {
             <div class="bg-img"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-7 col-header-txt lr-padding">
+                    <div class="col-md-7 col-header-txt lr-padding">
                         <h1 class="animate display-none">I OFFER A <span>REFRESHING</span> APPROACH TO BUSINESS ENERGY</h1>
                         <p class="animate delay-a display-none">I believe business energy costs should be a reflection of business needs. My first focus is to be fully transparent. </p>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#overview">Discover more</a>
                         <a class="btn-transparent animate delay-c display-none smoothscroll" href="#contact">Contact Us</a>
                     </div>
-                    <div class="col-sm-5 col-md-offset-2 col-md-3 col-header-img right-padding">
+                    <div class="col-md-7 col-header-img right-padding">
                         <img src="img/header/header-img-5-speech.png" alt="header-img" id="mobile-size" class="img-header-lg header-img-new animate delay-c fadeInUp display-none">
                         <!--                        <img src="img/header/header-img-3.png" alt="header-img" class="img-header-sm delay-a display-none">-->
                     </div>
