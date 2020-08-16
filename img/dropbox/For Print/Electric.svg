@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 454.06 429.62">
+  <defs>
+    <linearGradient id="linear-gradient" x1="143.73" y1="268.24" x2="299.45" y2="268.24" gradientTransform="matrix(1, 0, 0, -1, 0, 425.84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a5c731"/>
+      <stop offset="1" stop-color="#76b83e"/>
+    </linearGradient>
+  </defs>
+  <g id="ARTWORK">
+    <polygon id="electric" points="200.64 0 288.82 0 241.92 100.98 299.45 100.98 143.73 315.19 198.76 150.02 165.62 150.02 200.64 0" fill="url(#linear-gradient)"/>
+    <g style="isolation: isolate">
+      <text transform="translate(0 381.23)" font-size="57.14" fill="#1d1d1b" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.02em" style="isolation: isolate">UTILIT</text>
+      <text transform="translate(184.17 381.23)" font-size="57.14" fill="#1d1d1b" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.08em" style="isolation: isolate">Y</text>
+      <text transform="translate(221.59 381.23)" font-size="57.14" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.09em" style="isolation: isolate">A</text>
+      <text transform="translate(264.79 381.23)" font-size="57.14" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.03em" style="isolation: isolate">S</text>
+      <text transform="translate(299.65 381.23)" font-size="57.14" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.02em" style="isolation: isolate">SURE</text>
+    </g>
+    <g style="isolation: isolate">
+      <text transform="translate(0.93 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.02em" style="isolation: isolate">PR</text>
+      <text transform="translate(43.59 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.06em" style="isolation: isolate">O</text>
+      <text transform="translate(68.51 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.02em" style="isolation: isolate">VIDING<tspan x="105" y="0" letter-spacing="-0.04em"> </tspan><tspan x="112.57" y="0" letter-spacing="-0.02em">TRANS</tspan></text>
+      <text transform="translate(300.26 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.11em" style="isolation: isolate">P</text>
+      <text transform="translate(318.51 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.02em" style="isolation: isolate">AREN</text>
+      <text transform="translate(409.86 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.03em" style="isolation: isolate">C</text>
+      <text transform="translate(432.22 419.36)" font-size="31.58" fill="#1d1d1b" font-family="ArialMT, Arial" letter-spacing="-0.04em" style="isolation: isolate">Y</text>
+    </g>
+  </g>
+</svg>

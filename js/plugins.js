@@ -24,6 +24,10 @@ Notes:
 To get the mailchimp JSONP url (undocumented), change 'post?' to 'post-json?' and add '&c=?' to the end.
 For e.g. 'http://blahblah.us1.list-manage.com/subscribe/post-json?u=5afsdhfuhdsiufdba6f8802&id=4djhfdsh99f&c=?',
 */
+
+
+
+
 $("form").submit(function (e) {
     if(!$("input[name='checkbox1']").is(":checked")) {
         e.preventDefault();

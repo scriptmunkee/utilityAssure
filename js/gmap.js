@@ -4,7 +4,7 @@
 var lat = 54.721486;
 var long = -1.368433;  
 
-if ($("#googleMap").length > 0)
+if ($(".google-map").length > 0)
 {
     var myCenter = new google.maps.LatLng(
         lat, long 
@@ -15,7 +15,7 @@ if ($("#googleMap").length > 0)
             position: myCenter,
             icon: newLogo
         });
-        var map = new google.maps.Map(document.getElementById("googleMap"), {
+        var map = new google.maps.Map(document.getElementById("google-map"), {
             center: myCenter,
             zoom: 12,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
