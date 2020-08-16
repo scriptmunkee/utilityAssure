@@ -4207,13 +4207,13 @@ Styles for smaller devices
 
 @media (min-width: 200px) {
     .google-map {
-        min-height: 535px;
+        min-height: ;
     }
 }
 
 @media (max-width: 480px) {
     .google-map {
-        min-height: 535px;
+        /* min-height: 535px; */
     }
 }
 
@@ -4272,13 +4272,16 @@ Styles for smaller devices
 #footer>.row {
     height: auto;
 }
-
+#footer>.row>div{
+    padding-bottom: 2rem;;
+}
 .footer-text {
     text-align: center;
     font-size: 16px;
 }
 
 .footer-privacy {
+    text-align: center;
     text-decoration: none;
     font-size: 16px;
 }
