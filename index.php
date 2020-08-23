@@ -347,7 +347,13 @@ if (isset($_GET['accept-cookies'])) {
     </section>
     <!-- END TESTIMONIAL -->
     <!-- TEAM AMMENDS NEEDED ON CENTERING-->
-
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+            <div class="mcwidget-embed" data-widget-id="12596041"></div>
+            </div>
+        </div>
+    </div>
 
     <!-- <section id="team" class="sec-team bg-gradient-horizontal bg-img">
         <div class="bg-img"></div>
@@ -477,6 +483,8 @@ if (isset($_GET['accept-cookies'])) {
     <!--        <script type="text/javascript" src="js/gmap.js"></script>-->
     <script type="text/javascript" src="js/custom-animations.js"></script>
     <script type="text/javascript" src="js/google.js"></script>
+    <!-- ManyChat -->
+<script src="//widget.manychat.com/104142627971426.js" async="async"></script>
 
     <script type="text/javascript" src="js/theme.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCU2BvWjdUumI0OJSeraypMzUoR5nOB-V8&callback=initMap"></script>
